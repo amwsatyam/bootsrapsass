@@ -1,2 +1,2 @@
 # bootsrapsass
-this the bootstrap sass library
+this the bootstrap sass libraries
